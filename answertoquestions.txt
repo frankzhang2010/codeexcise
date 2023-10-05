@@ -1,0 +1,22 @@
+QUESTIONS
+
+Does the solution work for larger graphs?
+No, there is some size limit for the array.
+Can you think of any optimizations?
+The problem for undirected graphs will be resolved by parallel optimal longest path search 
+What’s the computational complexity of your solution?
+Since this method utilized depth first search. The time complexity is O(V+E), V represents the number of vertices and E represents the number of edges in the graph.
+Are there any unusual cases that aren't handled?
+For some dynamic weight issue, it needs to be handled. 
+Feel free to provide a README.md with comments on the implementation.
+
+Additional questions to think about:
+
+What are some things you don’t like about Java?
+there is no delegate in java. 
+If you could choose any language/framework/technology stack, what would you choose and why?
+I will choose java , python language and spring cloud , spring boot ,Django framework, k8 contain system and aws cloud system.
+Python was widely used in many area , such as AI, deep learning, web crawler and data analyze
+Java is a high-level , class-based , oop language which is widely used in many area
+If you have any questions about the exercise, please don’t hesitate to ask and we will have an IPaC team member reach out to you.
+Not yet
